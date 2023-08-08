@@ -1,3 +1,3 @@
 # Usefull-Tools
 
-##suurimmaksi osaksi pythonilla koodattuja hyödyllisiä työkaluja.
+## Suurimmaksi osaksi pythonilla koodattuja hyödyllisiä työkaluja.
